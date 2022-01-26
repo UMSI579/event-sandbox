@@ -1,0 +1,1 @@
+const coolDiv = 'something different';
